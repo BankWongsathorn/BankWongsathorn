@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wongsathorn Sathainjarukarn</h1>
 <h3 align="center">Developer from Thailand</h3>
 
-- 🌱 I’m currently learning **Laravel , React ,**
+- 🌱 I’m currently learning **Laravel , React , Java ,**
 
 
 <p align="left">
