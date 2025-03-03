@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wongsathorn Sathainjarukarn</h1>
-<h3 align="center">Developer from Thailand</h3>
+<h3 align="center">Junior Programmer</h3>
 
 - 🌱 I’m currently learning **Laravel , React , Java ,**
 
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
